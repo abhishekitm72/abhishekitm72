@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Application developer
 I am currently working on amazon-review-sentiment-analysis
 
 

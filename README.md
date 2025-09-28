@@ -4,6 +4,7 @@ I am currently working on amazon-review-sentiment-analysis
 
 # 💻 Tech Stack:
 
+
 ## 🌐 Frontend
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -22,10 +23,24 @@ I am currently working on amazon-review-sentiment-analysis
 ## 📱 Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+## 🌍 Web & CMS Development
+![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) 
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
 ## 🛠️ Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+---
+
+# 🚀 Full Stack Development
+Building and deploying **end-to-end applications** with:  
+- **Frontend:** ReactJS, HTML, CSS  
+- **Backend:** Java, Node.js, Express.js  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Mobile Development:** Android  
+- **Web & CMS Development:** Wix, Shopify  
+ 
 
 ---
 

@@ -41,15 +41,8 @@ Building and deploying **end-to-end applications** with:
 - **Mobile Development:** Android  
 - **Web & CMS Development:** Wix, Shopify  
  
-
 ---
 
-# 🚀 Full Stack Development
-Building and deploying **end-to-end applications** with:  
-- **Frontend:** ReactJS, HTML, CSS  
-- **Backend:** Java, Node.js, Express.js  
-- **Databases:** MySQL, MongoDB, Firebase  
-- **Mobile Development:** Android  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhishekitm72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

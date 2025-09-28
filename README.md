@@ -1,5 +1,4 @@
-# 💫 Application developer
-I am currently working on amazon-review-sentiment-analysis
+# 💫Full Stack Devloper
 
 
 # 💻 Tech Stack:
